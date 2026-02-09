@@ -1,0 +1,16 @@
+{
+  "name": "Nano Banana Alarm",
+  "short_name": "BananaAlarm",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050a1f",
+  "theme_color": "#ffd700",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
